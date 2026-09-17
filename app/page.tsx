@@ -9,7 +9,7 @@ export default function Home() {
         {/* Logo */}
         <div className="mb-10 flex items-center justify-center">
           <span className="text-2xl font-bold tracking-tight">
-            Avalo<span className="text-blue-500">Services</span>
+            Avalo <span className="text-blue-500">Technical Services LLC</span>
           </span>
         </div>
 
@@ -28,7 +28,7 @@ export default function Home() {
 
         {/* Description */}
         <p className="mx-auto mt-7 max-w-xl text-lg leading-8 text-zinc-400">
-          Avalo Services is getting a new experience. We&apos;re working behind
+          Avalo Technical Services LLC is getting a new experience. We&apos;re working behind
           the scenes to bring you something better.
         </p>
 
@@ -41,7 +41,7 @@ export default function Home() {
 
         {/* Footer */}
         <p className="mt-20 text-sm text-zinc-600">
-          © {new Date().getFullYear()} Avalo Services. All rights reserved.
+          © {new Date().getFullYear()} Avalo Technical Services LLC. All rights reserved.
         </p>
       </div>
     </main>
